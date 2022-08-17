@@ -3,7 +3,7 @@ This is a fully responsive website for an online wedding invitation & advertisem
 I used this for a personal project based learning approach to programming.
 
 ## Built With
-- Semantic HTML
+- HTML
 - CSS
 - Javascript
 
