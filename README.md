@@ -8,5 +8,4 @@ I used this for a personal project based learning approach to programming.
 -JavaScript 
 
 ## Links
-- [Code on GitHub](https://github.com/ikennaezef/piggyvest-clone/)
-- [Live Site](https://ikennaezef.github.io/piggyvest-clone/)
+- [Live Site](https://codeklin.github.io/wed-mall.github.io/)
